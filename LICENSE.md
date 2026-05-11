@@ -1,4 +1,4 @@
-
+Enhance Audacity for macOS with Audacity for macOS smart Transition: scene-transitions & lens-flare, the #1 transition. Includes scene-transitions and lens-flare for a smoother
 
 
 
